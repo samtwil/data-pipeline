@@ -1,0 +1,8 @@
+flake8
+pytest-cov
+pytest
+pandas
+moto[server]
+flask
+flask_cors
+mock

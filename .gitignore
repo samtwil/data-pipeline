@@ -6,3 +6,10 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# Python
+__pycache__
+.pytest_cache
+htmlcov
+.coverage
+moto.json
